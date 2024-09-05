@@ -22,7 +22,7 @@ body {
     height: 100%;
     box-sizing: border-box;
     background-color: #1A1A1A;
-    box-shadow: 0 0 0.5em red;
+    box-shadow: 0 0 0.5em #17171798;
     border-radius: 0.5em;
 }
 
